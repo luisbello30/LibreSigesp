@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comprobantes>
+  <comprobante>
+	  <impnch>000000123456789</impnch>
+	  <codban>005</codban>
+	  <ctaban>000007-0044-47-0000011933</ctaban>
+	  <numdoc>000193395100006</numdoc>
+	  <codope>ND</codope>
+  </comprobante>
+  <comprobante>
+	  <impnch>000000123543242</impnch>
+	  <codban>003</codban>
+	  <ctaban>000003-0016-14-0001144571</ctaban>
+	  <numdoc>000000002990955</numdoc>
+	  <codope>NC</codope>
+  </comprobante>
+</comprobantes>

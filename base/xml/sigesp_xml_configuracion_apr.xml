@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conexiones>
+
+
+  <conexion>
+      <servidor>127.0.0.1</servidor>
+      <puerto>5432</puerto>
+      <basedatos>Fundarte_2014_v2</basedatos>
+      <nombre>Fundarte_2014_v2</nombre>
+      <login>postgres</login>
+      <password></password>
+      <gestor>POSTGRES</gestor>
+  </conexion>
+  
+<!--  <conexion>
+      <servidor>172.16.1.144</servidor>
+      <puerto>5432</puerto>
+      <basedatos>DB_2012_DVL</basedatos>
+      <nombre>DVL 2012</nombre>
+      <login>postgres</login>
+      <password>ch@v3z2010POSTGRES</password>
+      <gestor>POSTGRES</gestor>
+  </conexion>
+    
+   <conexion>
+      <servidor>172.16.1.144</servidor>
+      <puerto>5432</puerto>
+      <basedatos>DB_2012_FLS</basedatos>
+      <nombre>FLS 2012</nombre>
+      <login>postgres</login>
+      <password>ch@v3z2010POSTGRES</password>
+      <gestor>POSTGRES</gestor>
+  </conexion>
+  
+   <conexion>
+      <servidor>172.16.1.144</servidor>
+      <puerto>5432</puerto>
+      <basedatos>DB_2012_CLAB</basedatos>
+      <nombre>CELAB 2012</nombre>
+      <login>postgres</login>
+      <password>ch@v3z2010POSTGRES</password>
+      <gestor>POSTGRES</gestor>
+  </conexion>
+  
+  <conexion>
+      <servidor>172.16.1.144</servidor>
+      <puerto>5432</puerto>
+      <basedatos>DB_2012_CNH</basedatos>
+      <nombre>CNH 2012</nombre>
+      <login>postgres</login>
+      <password>ch@v3z2010POSTGRES</password>
+      <gestor>POSTGRES</gestor>
+  </conexion>
+  
+   <conexion>
+      <servidor>172.16.1.144</servidor>
+      <puerto>5432</puerto>
+      <basedatos>DB_2012_FIC</basedatos>
+      <nombre>FIC 2012</nombre>
+      <login>postgres</login>
+      <password>ch@v3z2010POSTGRES</password>
+      <gestor>POSTGRES</gestor>
+  </conexion>
+  
+  <conexion>
+      <servidor>172.16.1.144</servidor>
+      <puerto>5432</puerto>
+      <basedatos>DB_2012_CELARG</basedatos>
+      <nombre>CELARG 2012</nombre>
+      <login>postgres</login>
+      <password>ch@v3z2010POSTGRES</password>
+      <gestor>POSTGRES</gestor>
+  </conexion>
+  
+  <conexion>
+      <servidor>172.16.1.144</servidor>
+      <puerto>5432</puerto>
+      <basedatos>DB_2012_AGN</basedatos>
+      <nombre>AGN 2012</nombre>
+      <login>postgres</login>
+      <password>ch@v3z2010POSTGRES</password>
+      <gestor>POSTGRES</gestor>
+  </conexion>
+  
+  <conexion>
+      <servidor>172.16.1.144</servidor>
+      <puerto>5432</puerto>
+      <basedatos>DB_2012_FEPR</basedatos>
+      <nombre>FEPR 2012</nombre>
+      <login>postgres</login>
+      <password>ch@v3z2010POSTGRES</password>
+      <gestor>POSTGRES</gestor>
+  </conexion>
+  
+  <conexion>
+      <servidor>172.16.1.144</servidor>
+      <puerto>5432</puerto>
+      <basedatos>DB_2012_MAELCA</basedatos>
+      <nombre>MAELCA 2012</nombre>
+      <login>postgres</login>
+      <password>ch@v3z2010POSTGRES</password>
+      <gestor>POSTGRES</gestor>
+  </conexion>
+  
+  <conexion>
+      <servidor>localhost</servidor>
+      <puerto>5432</puerto>
+      <basedatos>db_iabn_2012</basedatos>
+      <nombre>IABN 2012</nombre>
+      <login>postgres</login>
+      <password>123456</password>
+      <gestor>POSTGRES</gestor>
+  </conexion>
+  
+  
+  <conexion>
+      <servidor>172.16.1.144</servidor>
+      <puerto>5432</puerto>
+      <basedatos>DB_2012_CENAL</basedatos>
+      <nombre>CENAL 2012</nombre>
+      <login>postgres</login>
+      <password>ch@v3z2010POSTGRES</password>
+      <gestor>POSTGRES</gestor>
+  </conexion>
+  
+  <conexion>
+      <servidor>172.16.1.144</servidor>
+      <puerto>5432</puerto>
+      <basedatos>DB_2012_CENAF</basedatos>
+      <nombre>CENAF 2012</nombre>
+      <login>postgres</login>
+      <password>ch@v3z2010POSTGRES</password>
+      <gestor>POSTGRES</gestor>
+  </conexion>
+  
+  <conexion>
+      <servidor>172.16.1.144</servidor>
+      <puerto>5432</puerto>
+      <basedatos>DB_2012_FCN</basedatos>
+      <nombre>FCN 2012</nombre>
+      <login>postgres</login>
+      <password>ch@v3z2010POSTGRES</password>
+      <gestor>POSTGRES</gestor>
+  </conexion>
+ 
+   <conexion>
+      <servidor>172.16.1.144</servidor>
+      <puerto>5432</puerto>
+      <basedatos>DB_2012_AMAZONIA</basedatos>
+      <nombre>AMAZONIA 2012</nombre>
+      <login>postgres</login>
+      <password>ch@v3z2010POSTGRES</password>
+      <gestor>POSTGRES</gestor>
+  </conexion>
+  
+   
+   <conexion>
+      <servidor>172.16.1.144</servidor>
+      <puerto>5432</puerto>
+      <basedatos>DB_2012_CENDIS</basedatos>
+      <nombre>CENDIS 2012</nombre>
+      <login>postgres</login>
+      <password>ch@v3z2010POSTGRES</password>
+      <gestor>POSTGRES</gestor>
+  </conexion>
+  
+    
+   <conexion>
+      <servidor>172.16.1.144</servidor>
+      <puerto>5432</puerto>
+      <basedatos>DB_2012_FVC</basedatos>
+      <nombre>FVC 2012</nombre>
+      <login>postgres</login>
+      <password>ch@v3z2010POSTGRES</password>
+      <gestor>POSTGRES</gestor>
+  </conexion>
+  
+  
+   <conexion>
+      <servidor>172.16.1.144</servidor>
+      <puerto>5432</puerto>
+      <basedatos>DB_2012_CENAC</basedatos>
+      <nombre>CENAC 2012</nombre>
+      <login>postgres</login>
+      <password>ch@v3z2010POSTGRES</password>
+      <gestor>POSTGRES</gestor>
+  </conexion>
+  
+  <conexion>
+      <servidor>172.16.1.144</servidor>
+      <puerto>5432</puerto>
+      <basedatos>DB_2012_FUNVES</basedatos>
+      <nombre>FUNVES 2012</nombre>
+      <login>postgres</login>
+      <password>ch@v3z2010POSTGRES</password>
+      <gestor>POSTGRES</gestor>
+  </conexion>
+  
+  <conexion>
+      <servidor>172.16.1.144</servidor>
+      <puerto>5432</puerto>
+      <basedatos>DB_2012_IAEM</basedatos>
+      <nombre>IAEM 2012</nombre>
+      <login>postgres</login>
+      <password>ch@v3z2010POSTGRES</password>
+      <gestor>POSTGRES</gestor>
+  </conexion>
+  
+  <conexion>
+      <servidor>172.16.1.144</servidor>
+      <puerto>5432</puerto>
+      <basedatos>DB_2012_CARTISTA</basedatos>
+      <nombre>CARTISTA 2012</nombre>
+      <login>postgres</login>
+      <password>ch@v3z2010POSTGRES</password>
+      <gestor>POSTGRES</gestor>
+  </conexion>
+  
+  <conexion>
+      <servidor>172.16.1.144</servidor>
+      <puerto>5432</puerto>
+      <basedatos>DB_2012_CNT</basedatos>
+      <nombre>CNT 2012</nombre>
+      <login>postgres</login>
+      <password>ch@v3z2010POSTGRES</password>
+      <gestor>POSTGRES</gestor>
+  </conexion>
+  
+  <conexion>
+      <servidor>172.16.1.144</servidor>
+      <puerto>5432</puerto>
+      <basedatos>DB_2012_FCNM</basedatos>
+      <nombre>FCNM 2012</nombre>
+      <login>postgres</login>
+      <password>ch@v3z2010POSTGRES</password>
+      <gestor>POSTGRES</gestor>
+  </conexion>
+  
+  <conexion>
+      <servidor>172.16.1.144</servidor>
+      <puerto>5432</puerto>
+      <basedatos>DB_2012_FCND</basedatos>
+      <nombre>FCND 2012</nombre>
+      <login>postgres</login>
+      <password>ch@v3z2010POSTGRES</password>
+      <gestor>POSTGRES</gestor>
+  </conexion>
+  
+  <conexion>
+      <servidor>172.16.1.144</servidor>
+      <puerto>5432</puerto>
+      <basedatos>DB_2012_FTTC</basedatos>
+      <nombre>FTTC 2012</nombre>
+      <login>postgres</login>
+      <password>ch@v3z2010POSTGRES</password>
+      <gestor>POSTGRES</gestor>
+  </conexion>
+  
+  <conexion>
+      <servidor>172.16.1.144</servidor>
+      <puerto>5432</puerto>
+      <basedatos>DB_2012_CNDC</basedatos>
+      <nombre>CNDC 2012</nombre>
+      <login>postgres</login>
+      <password>ch@v3z2010POSTGRES</password>
+      <gestor>POSTGRES</gestor>
+  </conexion>
+  
+  <conexion>
+      <servidor>172.16.1.144</servidor>
+      <puerto>5432</puerto>
+      <basedatos>DB_2012_FMC</basedatos>
+      <nombre>FMC 2012</nombre>
+      <login>postgres</login>
+      <password>ch@v3z2010POSTGRES</password>
+      <gestor>POSTGRES</gestor>
+  </conexion>
+  
+  <conexion>
+      <servidor>172.16.1.144</servidor>
+      <puerto>5432</puerto>
+      <basedatos>DB_2012_IPC</basedatos>
+      <nombre>IPC 2012</nombre>
+      <login>postgres</login>
+      <password>ch@v3z2010POSTGRES</password>
+      <gestor>POSTGRES</gestor>
+  </conexion>
+  
+  <conexion>
+      <servidor>172.16.1.144</servidor>
+      <puerto>5432</puerto>
+      <basedatos>DB_2012_IARTES</basedatos>
+      <nombre>IARTES 2012</nombre>
+      <login>postgres</login>
+      <password>ch@v3z2010POSTGRES</password>
+      <gestor>POSTGRES</gestor>
+  </conexion>
+  
+  <conexion>
+      <servidor>172.16.1.144</servidor>
+      <puerto>5432</puerto>
+      <basedatos>DB_2012_REDA</basedatos>
+      <nombre>REDA 2012</nombre>
+      <login>postgres</login>
+      <password>ch@v3z2010POSTGRES</password>
+      <gestor>POSTGRES</gestor>
+  </conexion>
+  
+  <conexion>
+      <servidor>172.16.1.144</servidor>
+      <puerto>5432</puerto>
+      <basedatos>DB_2012_FMN</basedatos>
+      <nombre>FMN 2012</nombre>
+      <login>postgres</login>
+      <password>ch@v3z2010POSTGRES</password>
+      <gestor>POSTGRES</gestor>
+  </conexion>
+    <conexion>
+      <servidor>172.16.1.144</servidor>
+      <puerto>5432</puerto>
+      <basedatos>DB_2012_MPPC</basedatos>
+      <nombre>MPPC 2012</nombre>
+      <login>postgres</login>
+      <password>ch@v3z2010POSTGRES</password>
+      <gestor>POSTGRES</gestor>
+  </conexion>-->
+  
+</conexiones>
+
+
+

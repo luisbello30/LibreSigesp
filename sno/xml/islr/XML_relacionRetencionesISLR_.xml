@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<RelacionRetencionesISLR RifAgente="G200046406" Periodo="201201">
+<DetalleRetencion>
+	<RifRetenido>J</RifRetenido>
+	<NumeroFactura>00000000</NumeroFactura>
+	<NumeroControl>1</NumeroControl>
+	<CodigoConcepto>001</CodigoConcepto>
+	<MontoOperacion>6041.62</MontoOperacion>
+	<PorcentajeRetencion>2.95</PorcentajeRetencion>
+</DetalleRetencion>
+<DetalleRetencion>
+	<RifRetenido></RifRetenido>
+	<NumeroFactura>00000000</NumeroFactura>
+	<NumeroControl>2</NumeroControl>
+	<CodigoConcepto>001</CodigoConcepto>
+	<MontoOperacion>7044.34</MontoOperacion>
+	<PorcentajeRetencion>2.95</PorcentajeRetencion>
+</DetalleRetencion>
+<DetalleRetencion>
+	<RifRetenido></RifRetenido>
+	<NumeroFactura>00000000</NumeroFactura>
+	<NumeroControl>3</NumeroControl>
+	<CodigoConcepto>001</CodigoConcepto>
+	<MontoOperacion>6041.62</MontoOperacion>
+	<PorcentajeRetencion>2.95</PorcentajeRetencion>
+</DetalleRetencion>
+<DetalleRetencion>
+	<RifRetenido></RifRetenido>
+	<NumeroFactura>00000000</NumeroFactura>
+	<NumeroControl>4</NumeroControl>
+	<CodigoConcepto>001</CodigoConcepto>
+	<MontoOperacion>6041.62</MontoOperacion>
+	<PorcentajeRetencion>2.95</PorcentajeRetencion>
+</DetalleRetencion>
+<DetalleRetencion>
+	<RifRetenido>J</RifRetenido>
+	<NumeroFactura>00000000</NumeroFactura>
+	<NumeroControl>5</NumeroControl>
+	<CodigoConcepto>001</CodigoConcepto>
+	<MontoOperacion>7044.34</MontoOperacion>
+	<PorcentajeRetencion>2.95</PorcentajeRetencion>
+</DetalleRetencion>
+<DetalleRetencion>
+	<RifRetenido>J124030737</RifRetenido>
+	<NumeroFactura>00000000</NumeroFactura>
+	<NumeroControl>6</NumeroControl>
+	<CodigoConcepto>001</CodigoConcepto>
+	<MontoOperacion>7044.34</MontoOperacion>
+	<PorcentajeRetencion>1.23</PorcentajeRetencion>
+</DetalleRetencion>
+<DetalleRetencion>
+	<RifRetenido></RifRetenido>
+	<NumeroFactura>00000000</NumeroFactura>
+	<NumeroControl>7</NumeroControl>
+	<CodigoConcepto>001</CodigoConcepto>
+	<MontoOperacion>6041.62</MontoOperacion>
+	<PorcentajeRetencion>0.26</PorcentajeRetencion>
+</DetalleRetencion>
+<DetalleRetencion>
+	<RifRetenido>J</RifRetenido>
+	<NumeroFactura>00000000</NumeroFactura>
+	<NumeroControl>8</NumeroControl>
+	<CodigoConcepto>001</CodigoConcepto>
+	<MontoOperacion>7044.32</MontoOperacion>
+	<PorcentajeRetencion>1.95</PorcentajeRetencion>
+</DetalleRetencion>
+<DetalleRetencion>
+	<RifRetenido>J</RifRetenido>
+	<NumeroFactura>00000000</NumeroFactura>
+	<NumeroControl>9</NumeroControl>
+	<CodigoConcepto>001</CodigoConcepto>
+	<MontoOperacion>7560.14</MontoOperacion>
+	<PorcentajeRetencion>2.95</PorcentajeRetencion>
+</DetalleRetencion>
+<DetalleRetencion>
+	<RifRetenido>J</RifRetenido>
+	<NumeroFactura>00000000</NumeroFactura>
+	<NumeroControl>10</NumeroControl>
+	<CodigoConcepto>001</CodigoConcepto>
+	<MontoOperacion>6798.32</MontoOperacion>
+	<PorcentajeRetencion>2.95</PorcentajeRetencion>
+</DetalleRetencion>
+</RelacionRetencionesISLR>

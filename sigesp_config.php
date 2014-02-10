@@ -1,0 +1,23 @@
+<?php
+$i=1;
+	$empresa["hostname"][$i]="127.0.0.1";
+	$empresa["port"][$i]="5432";
+	$empresa["database"][$i]="sigesp_2014";
+	$empresa["login"][$i]="postgres";
+	$empresa["password"][$i]="1234";
+	$empresa["gestor"][$i]="postgres";
+	$empresa["width"][$i]="70";
+	$empresa["height"][$i]="70";
+	$empresa["logo"][$i]="logo.jpg";
+$i++;
+	$empresa["hostname"][$i]="127.0.0.1";
+	$empresa["port"][$i]="5432";
+	$empresa["database"][$i]="sigesp_2014_9";
+	$empresa["login"][$i]="postgres";
+	$empresa["password"][$i]="1234";
+	$empresa["gestor"][$i]="postgres";
+	$empresa["width"][$i]="70";
+	$empresa["height"][$i]="70";
+	$empresa["logo"][$i]="logo.jpg";
+$i++;
+?>
