@@ -1,9 +1,9 @@
-sigesp
+sigesp / ## _**en borrador**_
 ======
 
 Sistema de Gestión Administrativa para el Sector Público de Venezuela
 
-## _**en edicion**_
+
 
 ## Bienvenidos a uno mas de los muchos esfuerzos por hacer de SIGESP un software realmente libre.
 
